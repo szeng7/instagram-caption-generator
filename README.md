@@ -16,3 +16,5 @@ This is a project to try and create a Instagram caption generator by training a 
     - [ ] Number of likes
     - [ ] Number of followers
     - [ ] Percentage of likes to followers?
+- [ ] Model architecture
+    - [ ] CNN to decode an image into a description
