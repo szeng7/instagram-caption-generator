@@ -13,3 +13,5 @@ Training: Training the main model on what a good caption would be based on the h
 ## File Directory
 
 data_analysis.ipynb - This is a jupyter notebook of initial data analysis results that will guide how I approach this problem
+
+https://github.com/szeng7/instagram_webscraping - This is a repo of files that I'm using to scrape instagram for training data.
