@@ -16,4 +16,6 @@ data_cleaning_and_extraction.ipynb - This is a jupyter notebook of initial data 
 
 analysis.ipynb - This is a jupyter notebook of where I actually look at my data a bit more indepth and find existing patterns to support/reject hypotheses.
 
+insta_data.pickle - This is a pickle file of the dataset I created and am using in a dataframe.
+
 https://github.com/szeng7/instagram_webscraping - This is a repo of files that I'm using to scrape instagram for training data.
